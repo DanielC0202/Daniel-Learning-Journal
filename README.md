@@ -34,3 +34,7 @@ Problem 3:
 Solution:
 
 - I had placed the Call for the enemy SideSwitch in the same place as the call for the player, instead of inside the function that is called.
+
+## 28/10/25 ##
+
+Problem 1. 
